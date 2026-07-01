@@ -1,0 +1,203 @@
+canonical_identifier: bkk:krp/KR6q0150/v1
+canonical_location: https://kanripo.org/bkk/KR6q0150/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 禪門鍛鍊說
+  identifiers:
+    alt_id:
+    - X63n1259
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1259.xml
+    old_id: X63n1259
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0150_000.yaml, hash: 'sha256:eafb50f1a23f0dd4e5ef0f1ad67c621e915efd671ed3c05a0d021b23ca6a6811'}
+  - {seq: 1, filename: KR6q0150_001.yaml, hash: 'sha256:627e90865f3715392d7f579d24592147c426250fddb3e04aa0498fbf78aea835'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0150_000.markers.yaml, hash: 'sha256:3f8528db62b321fb09af1a6a74ee5acf309782aa1b7ac3baa3180e9c1bf75ff0'}
+  - {seq: 1, role: markers, filename: assets/KR6q0150_001.markers.yaml, hash: 'sha256:e2bddfa25c7e8c39688b14b7dcb18ea7b217d8ec082cbca09177cc4ecbc8d7a4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0150_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1259-A 鍛鍊說十三篇自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0150_X_000-mulu-2
+    span:
+    - front
+    - 482
+    - 482
+  label: 禪門鍛鍊說目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 15917
+  label: 禪門鍛鍊說
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 堅誓忍苦第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-2
+    span:
+    - body
+    - 805
+    - 805
+  label: 辨器授話第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-3
+    span:
+    - body
+    - 2149
+    - 2149
+  label: 入室搜刮第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-4
+    span:
+    - body
+    - 3288
+    - 3288
+  label: 落堂開導第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-5
+    span:
+    - body
+    - 4504
+    - 4504
+  label: 垂手鍛鍊第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-6
+    span:
+    - body
+    - 5637
+    - 5637
+  label: 機權䇿發第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-7
+    span:
+    - body
+    - 6537
+    - 6537
+  label: 奇巧回換第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-8
+    span:
+    - body
+    - 7680
+    - 7680
+  label: 斬關開眼第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-9
+    span:
+    - body
+    - 8744
+    - 8744
+  label: 研究綱宗第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-10
+    span:
+    - body
+    - 10255
+    - 10255
+  label: 精嚴操履第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-11
+    span:
+    - body
+    - 11518
+    - 11518
+  label: 磨治學業第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-12
+    span:
+    - body
+    - 12819
+    - 12819
+  label: 簡練才能第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-13
+    span:
+    - body
+    - 14215
+    - 14215
+  label: 謹嚴付授第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0150_X_001-mulu-14
+    span:
+    - body
+    - 15735
+    - 15735
+  label: No. 1259-B 禪門鍛鍊說䟦
+  type: mulu
+  level: 1
+hash: sha256:b8117be522919cd2fc544834f7c867f77a30e8dcb11edb27f8abc9cf0829583b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
