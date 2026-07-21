@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0150_000-X.yaml, hash: 'sha256:9499c291b05cc6a4fe08622a36726dffeabd4ba78004595ffc2b486c65c0c646'}
+  - {seq: 0, filename: KR6q0150_000-X.yaml, hash: 'sha256:04df3711a8a235912ca107ca23f0a793db69fd50133fb6557cb8c35e44e7e01b'}
   - {seq: 1, filename: KR6q0150_001-X.yaml, hash: 'sha256:df386cf9e651de7155ab4739515901321edf16be3e6e10139eb07fc7549df9d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0150_000-X.markers.yaml, hash: 'sha256:376d546eeff5be97f58e4bc7ed994414a09ed56f447f9cbb718b311322223746'}
+  - {seq: 0, role: markers, filename: assets/KR6q0150_000-X.markers.yaml, hash: 'sha256:fc229783de3e7049379206b610a4b5f3307bc76cc259f41d2f52bd167b12f50b'}
   - {seq: 1, role: markers, filename: assets/KR6q0150_001-X.markers.yaml, hash: 'sha256:2b7da42e6d5ae2ee946b95c0a5b32f587ab9f260a29fad35e0dc5d2f4e5d3927'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0150_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1259-A 鍛鍊說十三篇自序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0150_X_000-mulu-2
     span:
-    - front
+    - body
     - 482
     - 482
   label: 禪門鍛鍊說目次
@@ -195,4 +195,4 @@ table_of_contents:
   label: No. 1259-B 禪門鍛鍊說䟦
   type: mulu
   level: 1
-hash: sha256:bcaf85fd444db119a2a2d8e20c6ec5ca7f571649e517422ae328edea5c362850
+hash: sha256:3e311eeaa783a600ac6c0e8564c0fccc1cdae8a449c5601d9790302880342ba5
